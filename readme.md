@@ -31,3 +31,16 @@ This is some information about my laptop:
 - [ ] Sleeping
 - [ ] Audio Port
 - [ ] Power Management
+
+## Images
+
+![1](images/1.jped)
+![2](images/2.jped)
+![3](images/3.jped)
+![4](images/4.jped)
+![5](images/5.jped)
+![6](images/6.jped)
+![7](images/7.jped)
+![8](images/8.jped)
+![9](images/9.jped)
+![10](images/10.jped)
